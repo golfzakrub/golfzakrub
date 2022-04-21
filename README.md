@@ -23,11 +23,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pumm1pagp7ipae6uhynd4ei9c&cover_image=true&theme=novatorem&bar_color=68f028&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### 💬 Contact Me 
-
-[![Gmail Badge](https://img.shields.io/badge/-golfzamamakrub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:golfzamamakrub@gmail.com)](mailto:golfzamamakrub@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@s6301012610078)](https://medium.com/@s6301012610078)
-
 ### 🚦 Stats
 
 <a href="https://github.com/golfzarkub/website">
@@ -41,3 +36,7 @@
   <img src="https://profile-counter.glitch.me/golfzakrub/count.svg" />
 </p>
 
+### 💬 Contact Me 
+
+[![Gmail Badge](https://img.shields.io/badge/-golfzamamakrub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:golfzamamakrub@gmail.com)](mailto:golfzamamakrub@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@s6301012610078)](https://medium.com/@s6301012610078)
