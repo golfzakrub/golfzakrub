@@ -19,6 +19,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pumm1pagp7ipae6uhynd4ei9c&cover_image=true&theme=novatorem&bar_color=68f028&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 💬 Contact Me 
 
@@ -28,10 +31,10 @@
 ### 🚦 Stats
 
 <a href="https://github.com/golfzarkub/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=golfzakrub&show_icons=true&hide=commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=golfzakrub&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
 <a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golfzakrub&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golfzakrub&layout=compact&theme=radical" />
 </a>
 
 <p align="center"> 
