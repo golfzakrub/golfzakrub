@@ -1,6 +1,6 @@
 
 ### 👽 Information
-**Hi there, I'm [Arin] You can call me Golf!. 👋 I am a student of the Faculty of Engineering, Majoring in computers.
+**Hi there, I'm [Arin] You can call me Golf!. 👋 I am a student of the Faculty of Engineering from Thailand, Majoring in computers.
 .** 
 
 
