@@ -22,8 +22,8 @@
 
 ### 💬 Contact Me 
 
-![Mail](https://img.shields.io/badge/-golfzamamakrub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
-
+[![Gmail Badge](https://img.shields.io/badge/-golfzamamakrub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:golfzamamakrub@gmail.com)](mailto:golfzamamakrub@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@s6301012610078)](mailto:https://medium.com/@s6301012610078)
 
 ### 🚦 Stats
 
