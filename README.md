@@ -1,6 +1,6 @@
 
 ### 👽 Information
-**Hi there, I'm [Arin] You can call me Golf!. 👋 I am a student of the Faculty of Engineering of <a href="https://www.kmutnb.ac.th/"> <b>King Mongkut's University of Technology North   Bangkok</b>, (KMUTNB)</a> from Thailand, Majoring in computers.
+**Hi there, I'm [Arin] You can call me Golf!. 👋 I am a student of the Faculty of Engineering in <a href="https://www.kmutnb.ac.th/"> <b>King Mongkut's University of Technology North   Bangkok</b>, (KMUTNB)</a> from Thailand, Majoring in computers.
 .** 
 
 
